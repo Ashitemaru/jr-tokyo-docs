@@ -72,3 +72,6 @@ markdown_extensions:
 nav:
   - 首页:
     - index.md
+    - 日本铁路的基础概念:
+      - 票务系统: index/tickets.md
+      - 运行系统: index/operations.md
